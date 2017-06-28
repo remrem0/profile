@@ -51,6 +51,11 @@ body {
   position: center;
 }
 
+#picture {
+  border-radius: 50%;
+  position: center;
+}
+
 h1, h2, h3 {
   font-family: 'Quicksand', sans-serif;
 }
