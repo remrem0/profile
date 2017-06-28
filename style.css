@@ -43,10 +43,11 @@ body {
 .img-rectangle {
   height: 250px;
   width: 190px;
+  border-radius: 10%;
 }
 
 .img-circle {
-  border-radius: 50%;
+  border-radius: 10%;
   position: center;
 }
 
