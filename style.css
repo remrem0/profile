@@ -107,3 +107,8 @@ td {
 .navbar-right li:hover {
   background-color: #EC971F;
 }
+
+.tomato {
+  height: 20px;
+  width: 22px;
+}
